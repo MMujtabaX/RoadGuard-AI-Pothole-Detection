@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Large / third-party media (keep the repo light)
+sample_inference/*.mp4
+results/*.mp4
+
+# Ultralytics run folders
+runs/
